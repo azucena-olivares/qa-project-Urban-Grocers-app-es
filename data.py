@@ -8,12 +8,5 @@ user_body = {
     "address": "123 Elm Street, Hilltop"
 }
 kit_body = {
-       "name": "Mi conjunto",
-       "card": {
-           "id": 1,
-           "name": "Para la situación"
-       },
-       "productsList": None,
-       "id": 7,
-       "productsCount": 0
-   }
+       "name": "Mi conjunto"
+}
